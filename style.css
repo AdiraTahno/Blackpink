@@ -4,7 +4,7 @@ body {
     text-align: center;
 }
 
- #profile {
+ .profile {
     width:250px;
     border-width: 10px;
      border-bottom-color: deeppink;
@@ -44,7 +44,7 @@ body {
     
 }
 
-.link {
+.links {
     float:left;
     font-size:18px;
     padding-left:10px;
